@@ -1,5 +1,9 @@
 # some-roms-tool
 for patching rom 
 
-special thanks: github copilot, deepseek 
-thanks for fix bugs😭✌️
+# special thanks 
+Github copilot, deepseek 
+Thanks for fix bugs😭✌️
+
+# requirements
+JDK 20 or above
